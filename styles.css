@@ -9,4 +9,8 @@
   }
   
   .sidebar { grid-area: sidebar; }
-  .body { grid-area: body; }
+  .body { grid-area: body; 
+          color: brown;
+          size-adjust: 20%;
+          
+}
